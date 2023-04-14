@@ -14,4 +14,19 @@ _This page contains a non-exhaustive list of some of my blogs_
 - [Learning Rust](https://medium.com/@bishnupadamajumder32/learning-8a68e4c94ecc)
 - [Privatization of data](https://medium.com/@bishnupadamajumder32/ever-wondered-about-the-privacy-of-data-during-building-ml-models-5762b74ac3fe)
 - [5 Ways to Access Kubernetes Clusters / ***Loft Labs*** ](https://loft.sh/blog/5-ways-to-access-kubernetes-clusters/)
+- [LightGBM] (Light Gradient Boosting Machine)](https://medium.com/@bishnupadamajumder32/lightgbm-light-gradient-boosting-machine-e26fff3b0e63)
+- [Applications of Machine Learning in medicine in a nutshell] (Light Gradient Boosting Machine)](https://medium.com/@bidamajumder32/applications-of-    machine-learning-in-medicine-in-a-nutshell-8df22cc99077)
+- [Optimizing using TensorFlow XLA](https://medium.com/@seckroll16/optimizing-using-tensorflow-xla-23f412965221)
+
+
+### Latest Open Source Documentation Contributions
+
+    -[DOC: Add Examples for np.ma.right_shift](https://github.com/numpy/numpy/pull/23393)
+    -[DOC: Add Examples for np.ma.sort](https://github.com/numpy/numpy/pull/23392)
+    -[Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
+    -[Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
+    -[Fixing docstring](https://github.com/keras-team/keras-cv/pull/1391)
+    -[BetaBinomial variance is not correctly described](https://github.com/pymc-devs/pymc/pull/6516)
+    
+                     
 

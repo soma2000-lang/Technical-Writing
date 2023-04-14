@@ -16,6 +16,8 @@ _This page contains a non-exhaustive list of some of my blogs_
 - [LightGBM](https://medium.com/@bishnupadamajumder32/lightgbm-light-gradient-boosting-machine-e26fff3b0e63)
 - [Applications of Machine Learning in medicine in a nutshell](https://medium.com/@bidamajumder32/applications-of-machine-learning-in-medicine-in-a-nutshell-8df22cc99077)
 - [Optimizing using TensorFlow XLA](https://medium.com/@seckroll16/optimizing-using-tensorflow-xla-23f412965221)
+- [Object Detection](https://medium.com/@seckroll16/object-detection-c5db4e29d61b)
+
 
 
 ### Latest Open Source Documentation Contributions

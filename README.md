@@ -13,7 +13,6 @@ _This page contains a non-exhaustive list of some of my blogs_
 - [Unicode Normalisation](https://medium.com/@bishnupadamajumder32/unicode-normalisation-b400c4a4e75e)
 - [Learning Rust](https://medium.com/@bishnupadamajumder32/learning-8a68e4c94ecc)
 - [Privatization of data](https://medium.com/@bishnupadamajumder32/ever-wondered-about-the-privacy-of-data-during-building-ml-models-5762b74ac3fe)
-- [5 Ways to Access Kubernetes Clusters / ***Loft Labs*** ](https://loft.sh/blog/5-ways-to-access-kubernetes-clusters/)
 - [LightGBM](https://medium.com/@bishnupadamajumder32/lightgbm-light-gradient-boosting-machine-e26fff3b0e63)
 - [Applications of Machine Learning in medicine in a nutshell](https://medium.com/@bidamajumder32/applications-of-machine-learning-in-medicine-in-a-nutshell-8df22cc99077)
 - [Optimizing using TensorFlow XLA](https://medium.com/@seckroll16/optimizing-using-tensorflow-xla-23f412965221)
@@ -21,7 +20,7 @@ _This page contains a non-exhaustive list of some of my blogs_
 
 ### Latest Open Source Documentation Contributions
 
-    -[LOW-LEVEL DESIGN OF MAKE MY TRIP](https://github.com/numpy/numpy/pull/23393)
+    -[Add doc](https://github.com/numpy/numpy/pull/23393)
     -[DOC Add Examples for np.ma.sort](https://github.com/numpy/numpy/pull/23392)
     -[Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
     -[Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)

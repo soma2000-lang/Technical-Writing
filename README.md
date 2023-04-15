@@ -29,6 +29,9 @@ _This page contains a non-exhaustive list of some of my blogs_
     -[Fixing docstring](https://github.com/keras-team/keras-cv/pull/1391)
     -[BetaBinomial variance is not correctly described](https://github.com/pymc-devs/pymc/pull/6516)
     
+ ### Onboarding Docs
+    
+    [Worked on onboarding tutorials and guides for newly joined volunteers]{https://docs.google.com/document/d/13eOd8w-     09bdUt3PoLQvjrbxtcJtaA4Wmj42udq9C20k/edit?usp=sharing}
 
     
                      

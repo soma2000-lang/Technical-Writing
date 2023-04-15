@@ -31,8 +31,7 @@ _This page contains a non-exhaustive list of some of my blogs_
     
  ### Onboarding Docs
     
-    [Worked on onboarding tutorials and guides for newly joined volunteers]{https://docs.google.com/document/d/13eOd8w-     09bdUt3PoLQvjrbxtcJtaA4Wmj42udq9C20k/edit?usp=sharing}
-
+   https://docs.google.com/document/d/13eOd8w-09bdUt3PoLQvjrbxtcJtaA4Wmj42udq9C20k/edit?usp=sharing
     
                      
 

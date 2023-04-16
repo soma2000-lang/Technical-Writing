@@ -8,6 +8,7 @@ _This page contains a non-exhaustive list of some of my blogs_
 - [Network Control Unit](https://medium.com/@seckroll16/network-control-unit-ebed8d8324aa)
 - [SimCLR / ***Paper Summary***](https://medium.com/@bishnupadamajumder32/simclr-f87d0d12e32a)
 - [Understanding and ignoring errors in Bash](https://medium.com/@seckroll16/understanding-and-ignoring-errors-in-abash-ee0a87afe19c)
+- [Statements in C++](https://medium.com/@seckroll16/statements-in-c-7a6ad94c33dc)
 - [Backend - API in Node.js](https://hashnode.com/post/backend-api-in-nodejs-cl0c0eni700y2qbnv3nqg2ftu)
 - [Confusion Matrix](https://medium.com/@bishnupadamajumder32/confusion-matrix-5a1840998466)
 - [Unicode Normalisation](https://medium.com/@bishnupadamajumder32/unicode-normalisation-b400c4a4e75e)
@@ -22,7 +23,7 @@ _This page contains a non-exhaustive list of some of my blogs_
 
 ### Latest Open Source Documentation Contributions
 
-    [Add doc](https://github.com/numpy/numpy/pull/23393)
+    - [Add doc](https://github.com/numpy/numpy/pull/23393)
     [DOC Add Examples for np.ma.sort](https://github.com/numpy/numpy/pull/23392)
     [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
     [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)

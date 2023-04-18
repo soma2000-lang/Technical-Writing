@@ -23,12 +23,12 @@ _This page contains a non-exhaustive list of some of my blogs_
 
 ### Latest Open Source Documentation Contributions
 
-   ## [Add doc](https://github.com/numpy/numpy/pull/23393)
-    [DOC Add Examples for np.ma.sort](https://github.com/numpy/numpy/pull/23392)
-    [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
-    [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
-    [Fixing docstring](https://github.com/keras-team/keras-cv/pull/1391)
-    [BetaBinomial variance is not correctly described](https://github.com/pymc-devs/pymc/pull/6516)
+   ## [Add doc for  numpy func](https://github.com/numpy/numpy/pull/23393)
+   ## [DOC Add Examples for np.ma.sort](https://github.com/numpy/numpy/pull/23392)
+   ## [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
+   ## [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
+   ## [Fixing docstring](https://github.com/keras-team/keras-cv/pull/1391)
+   ## [BetaBinomial variance is not correctly described](https://github.com/pymc-devs/pymc/pull/6516)
     
  ### Onboarding Docs
     

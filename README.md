@@ -36,14 +36,7 @@ _This page contains a non-exhaustive list of some of my blogs_
    
 ###  EnvisEdge
 
-https://github.com/NimbleEdge/EnvisEdge/pull/254
-https://github.com/NimbleEdge/EnvisEdge/pull/253
-https://github.com/NimbleEdge/EnvisEdge/pull/252
-https://github.com/NimbleEdge/EnvisEdge/pull/251
-https://github.com/NimbleEdge/EnvisEdge/pull/246
-https://github.com/NimbleEdge/EnvisEdge/pull/256
-https://github.com/NimbleEdge/Sentinels/pull/7
-https://github.com/NimbleEdge/EnvisEdge/pull/26
+   https://docs.google.com/document/d/1oegUzr-3vXCMrrV53jNaZpOtrJ7wmEQ-LWV_t4rA0cU/edit?pli=1
 
 
    

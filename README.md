@@ -23,16 +23,30 @@ _This page contains a non-exhaustive list of some of my blogs_
 
 ### Latest Open Source Documentation Contributions
 
-    [Add doc for  numpy func](https://github.com/numpy/numpy/pull/23393)
-    [DOC Add Examples for np.ma.sort](https://github.com/numpy/numpy/pull/23392)
-    [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
-    [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
-    [Fixing docstring](https://github.com/keras-team/keras-cv/pull/1391)
-    [BetaBinomial variance is not correctly described](https://github.com/pymc-devs/pymc/pull/6516)
+    - [Add doc for  numpy func](https://github.com/numpy/numpy/pull/23393)
+    - [DOC Add Examples for np.ma.sort](https://github.com/numpy/numpy/pull/23392)
+    - [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
+    - [Improve docstring of Albert](https://github.com/keras-team/keras-nlp/pull/862)
+    - [Fixing docstring](https://github.com/keras-team/keras-cv/pull/1391)
+    - [BetaBinomial variance is not correctly described](https://github.com/pymc-devs/pymc/pull/6516)
     
  ### Onboarding Docs
     
    https://docs.google.com/document/d/13eOd8w-09bdUt3PoLQvjrbxtcJtaA4Wmj42udq9C20k/edit?usp=sharing
+   
+###  EnvisEdge
+
+https://github.com/NimbleEdge/EnvisEdge/pull/254
+https://github.com/NimbleEdge/EnvisEdge/pull/253
+https://github.com/NimbleEdge/EnvisEdge/pull/252
+https://github.com/NimbleEdge/EnvisEdge/pull/251
+https://github.com/NimbleEdge/EnvisEdge/pull/246
+https://github.com/NimbleEdge/EnvisEdge/pull/256
+https://github.com/NimbleEdge/Sentinels/pull/7
+https://github.com/NimbleEdge/EnvisEdge/pull/26
+
+
+   
     
                      
 
